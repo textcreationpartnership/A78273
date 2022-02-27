@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Vniversity of Oxford: or, The sad dilemma that all the members thereof are put to, either to be perjur'd, or destroy'd. In a letter sent from thence to Mr Selden, Burgesse of the University.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78273</idno>
+            <idno type="STC">Wing C1173</idno>
+            <idno type="STC">Thomason E443_19</idno>
+            <idno type="STC">Thomason E673_21</idno>
+            <idno type="STC">ESTC R204731</idno>
+            <idno type="EEBO-CITATION">99864195</idno>
+            <idno type="PROQUEST">99864195</idno>
+            <idno type="VID">166265</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166265)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E443[19], 103:E673[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Vniversity of Oxford: or, The sad dilemma that all the members thereof are put to, either to be perjur'd, or destroy'd. In a letter sent from thence to Mr Selden, Burgesse of the University.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Richard Royston],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and bookseller's name from Wing.</note>
+                  <note>"Probably a genuine appeal to John Selden, then representing the University in Parliament, to protect the University" -- Madan.</note>
+                  <note>Annotation on Thomason copy E.443[19]: "May 18th"; on copy E.673[21]: "&amp; 1652" following the imprint date. Reissued?.</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>University of Oxford --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166265:1" rendition="simple:additions"/>
+            <head>THE CASE OF THE VNIVERSITY OF <hi>OXFORD:</hi> OR, The ſad <hi>Dilemma</hi> that all the Members thereof are put to, either to be perjur'd, or deſtroy'd.</head>
+            <p>
+               <hi>Jn a Letter ſent from thence to Mr</hi> SELDEN, <hi>Burgeſſe of the <g ref="char:V">Ʋ</g>niverſity.</hi>
+            </p>
+            <figure>
+               <head>ACADEMIA OXONIENSIS</head>
+               <q xml:lang="lat">SAPI<g ref="char:EOLunhyphen"/>EN<g ref="char:EOLunhyphen"/>TIA ET FELI<g ref="char:EOLunhyphen"/>CIT<g ref="char:EOLunhyphen"/>ATE</q>
+               <figDesc>blazon of the University of Oxford used as a printer's device</figDesc>
+            </figure>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166265:2"/>
+            <pb n="1" facs="tcp:166265:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He <hi>caſe of the <g ref="char:V">Ʋ</g>niverſity of Oxford</hi> is by the diligence, and dexterity of thoſe men who were ſent downe by the two Houſes to viſit, brought to a very ſhort iſſue; and in that preſent poſture I can now, without giving you any long divertiſement, or ſuch which is unſute<g ref="char:EOLhyphen"/>able to your employments, offer you a cleare, and di<g ref="char:EOLhyphen"/>ſtinct view of it, (ſo far as may render that whole Body, whom you in the Houſe of Commons doe repreſent the object of your kindnes and compaſſion) and then onely aske you this farther queſtion, Whe<g ref="char:EOLhyphen"/>ther the deſtruction that now hath made its approach ſo neere to us, the <hi>Axe</hi> which is now <hi>laid</hi> ſo cloſe <hi>to the root of the Tree,</hi> and is alrea<g ref="char:EOLhyphen"/>dy falne a hewing, may by no reaſon, or remorſe be averted, or removed from us.</p>
+            <p>The onely queſtion which is by theſe men propos'd to every ſingle perſon in the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity,</hi> is, Whether we wil ſubmit to their <hi>Viſitation,</hi> or <hi>to the power of Parliament</hi> (as they call it) <hi>in this Viſitation.</hi>
+            </p>
+            <p>That without the Perſonall Conſent of the <hi>King</hi> to this <hi>Commiſſion,</hi> (as far as it reſpects the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity</hi> in <hi>General,</hi> and us as members there<g ref="char:EOLhyphen"/>of) we cannot now ſubmit to any <hi>Viſitation,</hi> without incurring the guilt of manifold perjuries. In reference to our <hi>
+                  <g ref="char:V">Ʋ</g>niverſity Oathes,</hi> we have long ſince given an Account by way of Plea to theſe men: That our particular <hi>Locall,</hi> or <hi>Collegiate Statutes,</hi> (which define us particular <hi>Viſitors</hi> in our particular <hi>Colledges</hi>) bind us (under the ſame moſt evi<g ref="char:EOLhyphen"/>dent <hi>Perjury</hi>) to ſubmit to no other <hi>Viſitation,</hi> but that which the Sta<g ref="char:EOLhyphen"/>tutes of each have defined, hath been alſo the Plea of the Heads of our Colledges, in the name of their ſeverall ſocieties. And for this, and nothing but this, that is, (in plaine words) becauſe they have (with all civility to the two Houſes, and to the perſons ſent by them) refuſed to incur that <hi>damning ſin of Perjury,</hi> (which hath already helpt to bring ſuch heavy judgements upon this Nation) the Governours of the Univerſity are diſplaced, and ſome impriſon'd, and Maſter
+<pb n="2" facs="tcp:166265:3"/>
+               <hi>Reynolds a Viſitor</hi> put into the office of Vice-chancellour, and into the <hi>Deanary</hi> of <hi>Chriſt-church,</hi> two places of the greateſt dignity, and po<g ref="char:EOLhyphen"/>wer) one of the greateſt profit in the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity.</hi> And in like manner the Heads of the <hi>Colledges,</hi> and the <hi>Prebendaries</hi> of Chriſt-church, have many of them already falne under the ſame puniſhments, (and the reſt expect their turnes) and ſeverall of the <hi>Viſitors</hi> alſo are put into their places. And now the ſlaughter haſtens to the doore of every of the ancienteſt, or youngeſt Student, Fellow Scholar, Commoner, or other member of the whole <hi>
+                  <g ref="char:V">Ʋ</g>niverſity</hi> &amp; the ſpeed is ſo great the pur<g ref="char:EOLhyphen"/>ſuit ſo vehement, that foure whole <hi>Colledges</hi> have been in one day ſum<g ref="char:EOLhyphen"/>moned to appeare before them, without any delay, to give poſitive <hi>Anſwer</hi> to this one Queſtion, <hi>Whether they will ſubmit, or no.</hi> By this 'tis apparent to us, that as the ſtate of things now ſtands, we have an eaſie, though unhappy <hi>choice</hi> propoſed to us, <hi>viz.</hi> Whether we will prefer the preſervation of our Eſtates, or of our Soules by admitting perjury or ruine. (And in the making of the choice God hath given the whole Univerſity ſuch an uniforme conſtancy, and contempt of the world, that we heare not of above three men that have conſidered their profit ſo much, as to yeeld this ſubmiſſion) And that it may be alſo apparent to all others, that this is the <hi>choice,</hi> I ſhall give you the plaine words of our Oaths, by which we are withheld from ſubmit<g ref="char:EOLhyphen"/>ting, that the Honourable houſes may judge, if they pleaſe, whether it be probable that Conſcience hath by us been hypocritically pretended to deſtroy our ſelves, as it hath ſometimes been made uſe of by others for their viſible advantages. This I ſhall ſet down firſt, as far as our obligation is founded in our Oathes to the Univerſity, and then to our ſeverall Colledges.</p>
+            <p>The Oath of the Univerſity to every man is this. <hi>Tu jurabis te ob<g ref="char:EOLhyphen"/>ſervaturum omnia Statuta, libertates, Privilegia, &amp; Conſuetudines iſtius <g ref="char:V">Ʋ</g>niverſitatis. Thou ſhalt Swear to obſerve all the Statutes, Liberties, Priviledges, and cuſtomes of this <g ref="char:V">Ʋ</g>niverſity.</hi> The Schollar anſwers, <hi>Juro, I Swear,</hi> and this he renews, and repeats as often as he takes any degree in the Univerſity. From hence we conclude, that for any man wilfully to betray any one of the <hi>Priviledges,</hi> or <hi>Liberties</hi> (as well as to break the <hi>Statutes</hi> or <hi>Cuſtomes</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity</hi>) can never be ex<g ref="char:EOLhyphen"/>cuſed from the guilt and charge of down-right <hi>Perjury;</hi> for which we muſt be baniſhed the Univerſity, if ever we be called to account for it by any juſt power. And that one of our <hi>Priviledges</hi> is, that we be Viſited by none but the <hi>King,</hi> or thoſe that are ſent by Him, as we are verily perſwaded, ſo have we never heard of any other title, or
+<pb n="3" facs="tcp:166265:3"/>pretenſion of any (which is thought even by our enemies to have any ſhew of Ground in our <hi>Charters,</hi> or <hi>Customes</hi> againſt our Plea) ſave onely that of the <hi>Arch-biſhop</hi> of <hi>Canterbury,</hi> the <hi>Metropolitan;</hi> to which our Anſwer is ſo cleare, and punctuall, (<hi>viz.</hi> that in the vacancy of the Arch-biſhops Sea, all power that can be thought to belong to him, muſt needs be acknowledged to divolve to the <hi>King</hi> the fountain of his power, and ſo the <hi>Arch-Biſhop</hi> having been long dead, this po<g ref="char:EOLhyphen"/>wer of Viſiting us (if any ſuch belong to the <hi>Arch-Biſhop</hi>) muſt now needs be onely in the King) that we profeſſe never to have heard of any word of ſatisfaction that hath been offered to this enforcement of our Plea, but are rather told that the Commiſſion for this <hi>Viſitation</hi> comming under the name of our <hi>Soveraigne Lord Charles, &amp;c.</hi> is a <hi>Commiſſion</hi> iſſued out by the <hi>King;</hi> which as it ſeems to us an acknow<g ref="char:EOLhyphen"/>ledgement of the truth of all our pretenſions; ſo is it the impoſing up<g ref="char:EOLhyphen"/>on us the beliefe of that which we know to be otherwiſe, having cer<g ref="char:EOLhyphen"/>taine knowledge that the <hi>King</hi> never conſented to the iſſuing of this <hi>Commiſſion,</hi> and ſo having no excuſe of ignorance, in caſe we ſhould yeeld ſubmiſſion to that Viſitation (as proceeding from him) which is acknowledged by all to involve us in <hi>Perjury,</hi> if it come not from him. To this we may adde one obligation more, that as 'tis one of the <hi>
+                  <g ref="char:V">Ʋ</g>niverſities Priviledges</hi> to be exempt (without all controverſie as long as the <hi>Arch-Biſhops</hi> Sea is vacant) from all power but that of the <hi>King,</hi> ſo 'tis one of the <hi>Kings Priviledges</hi> and <hi>preheminencies</hi> to have this full, and (at this time) ſole power over us. And then that branch of the Oath of Supremacie that obligeth all Subjects in theſe expreſſe words, <hi>[to aſſiſt, and defend to our power all Priviledges, and Preeminencies, and Authorities granted, and belonging to the Kings Majeſty, or annexed to the Imperiall Crowne of this Kingdome]</hi> doth certainly bind us to de<g ref="char:EOLhyphen"/>fend this, as far as it is in our power to doe it.</p>
+            <p>For the obligations of <hi>Colledge-Statutes</hi> which name us particular Viſitors, and exclude all others from that employment, I ſhall ſhorten your trouble, and yet not faile in giving you, and all men a perfect ſa<g ref="char:EOLhyphen"/>tisfaction, by ſetting down a few plain words out of ſome of them. In the <hi>Statutes</hi> of <hi>New Coll: Magdalen Coll: Corpus Chriſti,</hi> and <hi>St. Johns</hi> (in each of theſe without any conſiderable alteration) theſe are the words; <hi>Statuimus, ordinamus, &amp; volumus, ut liceat D<hi rend="sup">no</hi> Epiſc: Winton: Dioc: qui pro tempore fuerit, &amp; nulli alii, nec aliis, &amp;c. per ſe, vel ſuum Commiſſarium ſpecialem, quem duxerit deputandum (praeter<g ref="char:EOLhyphen"/>quam per Cancellarium <g ref="char:V">Ʋ</g>niverſitatis, ſeu ejus Commiſſarium generalem, ſeu procuratores <g ref="char:V">Ʋ</g>niverſ: oxon: &amp;c. ac praeterquam Cuſtodem, aut ali<g ref="char:EOLhyphen"/>quam
+<pb n="4" facs="tcp:166265:4"/>perſonam noſtri Collegii, aut alios quoſcunque in <g ref="char:V">Ʋ</g>niverſitate per unam quindenam anno proximo cum viſitationem praecedente Studen<g ref="char:EOLhyphen"/>tes, &amp;c. per quos, aut ipſorum aliquem haec nolumus quomodolibet exer<g ref="char:EOLhyphen"/>ceri) ad Collegii hujus viſitationem liberè accederè, &amp; Cuſtodem ac alios ſingulos ſocios, &amp;c. noſtri Collegii in Sacellum ejuſdem convocare.</hi>
+            </p>
+            <p>From whence theſe few things are diſtinctly concluded by the <hi>Sta<g ref="char:EOLhyphen"/>tutes</hi> of thoſe <hi>Colledges.</hi> 1. That the <hi>Biſhop</hi> of <hi>Wincheſter</hi> by himſelf, or ſome body deputed by him is the onely lawfull Viſitour of thoſe Colledges; and all other perſon or perſons in direct words <hi>(nec alii nec aliis, &amp; praeterea nemini)</hi> are excluded by the Statutes. 2. That it is not lawfull for the <hi>Biſhop</hi> himſelf to depute any of thoſe perſons which are there excepted, <hi>viz.</hi> the <hi>Chancellour or Vice-chancellour or Pro<g ref="char:EOLhyphen"/>ctours of the <g ref="char:V">Ʋ</g>niverſity, the Warden or Preſident, or any perſon of the ſaid Colledges, or any Student in the <g ref="char:V">Ʋ</g>niverſity, that hath been commorant there fifteen daies in the year preceding the Viſitation;</hi> by which excep<g ref="char:EOLhyphen"/>tion all thoſe men, which have lately been the onely actors in this buſi<g ref="char:EOLhyphen"/>neſſe (having now <hi>reſided</hi> ('tis to be ſuppoſed <hi>ſtudied</hi>) here for ſome time, and now one nam'd, and by them reputed to be <hi>Vice-chancellour,</hi> others to be <hi>Governours</hi> of particular <hi>Colledges</hi>) are made utterly un<g ref="char:EOLhyphen"/>capable of that employment. I ſhall not need to mention any more, it being cleer that theſe men are not <hi>deputed</hi> by that <hi>Biſhop,</hi> and as cleer, that if they were <hi>deputed</hi> by him, they are not <hi>qualified</hi> accor<g ref="char:EOLhyphen"/>ding to the Statutes, but expreſly <hi>excluded</hi> by them. Now what is thus ordained by thoſe ſtatutes, every member admitted into thoſe <hi>Colledges,</hi> is by Oath obliged to <hi>obſerve,</hi> and not only involved in per<g ref="char:EOLhyphen"/>jury if he do not, but where other penalties are not named (as in this matter there are not) is liable to the <hi>pain of perjury,</hi> that is, depriva<g ref="char:EOLhyphen"/>tion of all benefits of his Colledge; which is now become the puniſh<g ref="char:EOLhyphen"/>ment of none but thoſe who will <hi>obſerve</hi> them.</p>
+            <p>Beſides theſe Oaths which particularly and directly looke to the grand matter of the <hi>Viſitation,</hi> There be many other branches of our <hi>Oathes Academicall,</hi> and <hi>Collegiate,</hi> which are moſt neerly concerned in the preſent tranſactions. The <hi>Statutes</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity,</hi> to the ob<g ref="char:EOLhyphen"/>ſerving of which our <hi>Oaths</hi> diſtinctly bind us, preſcribe the manner of <hi>Election</hi> of <hi>Proctours,</hi> (of calling and meeting in <hi>Convocations, &amp;c.</hi>) And therefore whenſoever <hi>Proctours</hi> have bin removed by the KING, the <hi>Vniverſity-statutes</hi> have taken place in appointing the Succeſſours; and thoſe (as the <hi>Vice-chancellour</hi> alſo) are obliged to take <hi>Oaths,</hi> for the diſcharge of their places according to <hi>ſtatute.</hi> But all is now done directly contrary to all this. And therefore herein no ſworn member
+<pb n="5" facs="tcp:166265:4"/>of the <hi>Vniverſity</hi> can think fit, without profeſſing deſpight to Conſci<g ref="char:EOLhyphen"/>ence or reputation, to joyne with them. And ſo in particular <hi>Col<g ref="char:EOLhyphen"/>ledges,</hi> the Statutes are punctuall, that after the departure or a motion of any <hi>Governour,</hi> the <hi>Fellowes</hi> muſt proceed within ſuch a time to the election of a new, and he and none but he ſhall be reputed <hi>Warden, Preſident, &amp;c.</hi> who ſhall be choſen by a major part of the Electours. And then he that is choſen muſt take ſeverall <hi>Oathes</hi> particularly to govern according to <hi>Statute,</hi> before any of the <hi>muniments</hi> of the <hi>Col<g ref="char:EOLhyphen"/>ledge</hi> may be delivered up to him, or before he enter upon the Go<g ref="char:EOLhyphen"/>vernment, to act any thing in it. And this is eſtabliſhed by ſeverall po<g ref="char:EOLhyphen"/>ſitive ſtatutes, to the obſerving of which, all members of Colledges are preciſely ſworne. And it is evident and acknowledged that no man can be made <hi>Deane</hi> or <hi>Prebendary</hi> of <hi>Chriſt-Church</hi> (nor ever was ſince the foundation of the <hi>Church</hi>) but by the KING's <hi>perſonall</hi> conſent, and nomination under the <hi>Privy Seale,</hi> and <hi>Broad Seale,</hi> by which he is inſtalled; And to him that is thus poſſeſt of that <hi>Deanary,</hi> every Student of that <hi>Church</hi> is by plaine words of the <hi>Oath</hi> of his admiſ<g ref="char:EOLhyphen"/>ſion, bound to <hi>perform due obedience, &amp;c.</hi> All which being now moſt cleerly violated by not onely Sequeſtring, but removing the former, and putting in new <hi>Governours</hi> by <hi>force,</hi> without <hi>Election,</hi> or taking of <hi>Oathes</hi> to the <hi>Colledges,</hi> it follows that no ſworn member of any <hi>Col<g ref="char:EOLhyphen"/>ledge</hi> can acknowledge any ſuch <hi>Governours</hi> without wilfull un-excu<g ref="char:EOLhyphen"/>ſable <hi>perjury.</hi> The onely thing that hath yet been offer'd to us to an<g ref="char:EOLhyphen"/>ſwer the Force, and urgence of all this Plea (and at the preſence of which, all mention of our <hi>Oaths</hi> muſt vaniſh preſently) is the preten<g ref="char:EOLhyphen"/>ded <hi>Soueraigne power of the two Houſes</hi> to make and aboliſh <hi>Laws</hi> and Obligations; which having interpoſed here, is conſequently ſaid to quit us of all theſe engagements, which formerly lay upon us. But this is ſo far from removing our <hi>ſcruples,</hi> that it is it ſelf a <hi>ſcruple</hi> much more hard to us to digeſt, then the former. For by our having taken the <hi>Oath</hi> of <hi>Supremacy,</hi> we have acknowledged that to be onely in the KING; and by our education in this Kingdome, have been brought up in a firm belief (grounded on the known <hi>Laws</hi> and <hi>Cuſtomes</hi> there<g ref="char:EOLhyphen"/>of) that the power of enacting, and repealing of Laws, belongs not to the <hi>two Houſes excluſively,</hi> but to the KING, <hi>with the Conſent of the two Houſes;</hi> and we doe now profeſſe, never to have heard any thing to the contrary, before theſe times; nor ſince theſe times, ſuf<g ref="char:EOLhyphen"/>ficient to alter our judgments in this particular. And therefore what<g ref="char:EOLhyphen"/>ſoever queſtion be made of this truth by other men, yet we, whoſe hearts aſſure us, that we make no queſtion of it (and conſequently
+<pb n="6" facs="tcp:166265:5"/>acknowledge, that we do not yet conceive our ſelves to be freed from any one branch of any of theſe <hi>Oathes</hi>) cannot imagine what colour it is poſſible for the Tempter to put upon this required ſubmiſſion, by which to perſwade us, that it might be reconcileable with a good Conſcience now, or with any degree of excuſe to God or men, or of quiet and tranquillity within our owne breaſts at the houre of death, in caſe we ſhould, on ſuch tearmes as theſe, <hi>ſubmit</hi> to this <hi>Viſitation.</hi> And as I thinke I might ſafely appeale to any Divine in the world as to a <hi>Confeſſour,</hi> or <hi>Caſuiſt</hi> for the ſtating of this <hi>Queſtion, Whether it were lawfull for us to ſubmit, ſuppoſing our many Oathes confeſtly bound us to the Contrary, and that we are verily perſwaded, that thoſe Oathes are in full force upon us, and as confident that the two Houſes could not diſpence with them, nor take off the obligingneſſe of them;</hi> So would I likewiſe appeale to any man living that ever pretended to aſſert either the <hi>Li<g ref="char:EOLhyphen"/>benty</hi> of <hi>Conſcience</hi> or <hi>propriety of goods, Whether we ought in this caſe to be turn'd out of our free hold, to the utter undoing of ſo great a multitude for no other crime but this of not ſubmitting,</hi> when that is nothing elſe but the following the dictates of our <hi>Conſciences</hi> informed and regu<g ref="char:EOLhyphen"/>lated by the known <hi>Laws of the Land.</hi> Having given you this ſhort view of our <hi>ſtate,</hi> which (as 'tis told us aſſuredly by the <hi>Viſitours</hi>) is ſuddenly to bring a perfect <hi>vaſtation</hi> on this <hi>Vniverſity,</hi> I cannot but thinke it my duty to the publick (which is now ſo diſabled from mee<g ref="char:EOLhyphen"/>ting in a body, that it cannot make any formall addreſſe to you) to lay this repreſentation before you, and to deſire by your aſſiſtance it may yet be reſumed into conſideration, Whether it will be for the ho<g ref="char:EOLhyphen"/>nour of <hi>Chriſtian Religion,</hi> or of the <hi>Preteſtant profeſſion,</hi> that our bare <hi>demurring</hi> or refuſing to ſubmit our ſelves to the groſſeſt and moſt un<g ref="char:EOLhyphen"/>queſtion'd <hi>perjuries,</hi> ſhould be voted by your <hi>Committee</hi> to be <hi>an high contempt of Authority of Parliament,</hi> and ſuch puniſhments aſſign'd thereto, which, if inflicted impartially, muſt neceſſarily leave no one Scholar of what quality ſoever in this Vniverſity (which is of age to have taken Oathes of admiſſion to the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity,</hi> or to any particular <hi>Colledge</hi>) which ſhall not appeare to all men avowedly and confeſtly <hi>periur'd,</hi> and lyable to all the ſhame and penalty, that by Law belongs to that crime, whenſoever any man ſhall be willing to proſecute it againſt him. We hope this repreſentation may produce ſome other counſels; if not, we ſhall moſt cheerfully periſh in our integrity. And in the meane time, in the name of our broken Body, theſe few lines are deſigned to acknowledge your favour, and to ſubſcribe our ſelves</p>
+            <closer>
+               <signed>Your &amp;c.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
